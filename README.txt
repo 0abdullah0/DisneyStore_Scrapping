@@ -6,11 +6,14 @@ REQUEST URL:
 
 RESPONSE (My Cart):
 -------------
-{
-  product_name:"",
-  product_price:"",
-  product_quantity:""
-}
+[
+  {
+    product_name:"",
+    product_price:"",
+    product_quantity:""
+  },
+  ...
+]
 
 NOTE:
 ----------
