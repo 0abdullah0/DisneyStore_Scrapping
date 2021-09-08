@@ -5,7 +5,7 @@ REQUEST URL:
  https://host name/product name/quantity
 
 RESPONSE (My Cart):
--------------
+--------------------
 [
   {
     product_name:"",
@@ -17,4 +17,4 @@ RESPONSE (My Cart):
 
 NOTE:
 ----------
-All products were stored in in-memory database (h2DB) so in each run will be destroyed 
+All products were stored in in-memory database (h2DB) so in each run data will be destroyed 
